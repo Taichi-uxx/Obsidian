@@ -1,0 +1,32 @@
+# Obsidian設定ファイル
+.obsidian/
+
+# システムファイル
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 一時ファイル
+*.tmp
+*.temp
+*~
+
+# バックアップファイル
+*.bak
+*.backup
+
+# ログファイル
+*.log
+
+# エディタ設定ファイル
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 無題のファイル（Obsidianの一時ファイル）
+無題のファイル.base
